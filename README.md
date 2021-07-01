@@ -5,7 +5,7 @@
 Youtube, the popular video streaming website is well known for prohibiting the
 user from downloading videos.  There are many uses for downloading these videos
 as either video or audio files as there are many third-party websites that
-exist online that allow a user to do just that on-demand.  However, theses
+exist online that allow a user to do just that on-demand.  However, these
 website are often ridden with pop-up ads, malware, and worse!
 
 The Youtube Downloader program exists as a user-friendly command line program
